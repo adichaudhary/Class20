@@ -1,2 +1,2 @@
-# Class20
-Collision algorithms.
+# collisionAlgorithm
+Algorithm to detect collision between two objects
